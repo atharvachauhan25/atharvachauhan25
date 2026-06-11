@@ -3,11 +3,6 @@
 **Electronics & Instrumentation @ BITS Pilani, Goa Campus**  
 **Software Development • Cybersecurity**
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/atharvachauhan25)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:atharvachauhan@gmail.com)
-
 ## 💫 About Me
 
 Hey there! I'm Atharva, an Electronics & Instrumentation undergraduate at BITS Pilani, Goa Campus who spends most of his time exploring technology beyond the classroom. My interests currently revolve around software development, cybersecurity, and solving challenging problems through code.
