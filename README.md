@@ -1,4 +1,10 @@
 # 💫 About Me:
+Hey there! I'm Atharva, an Electronics & Instrumentation undergraduate at BITS Pilani, Goa Campus who spends most of his time exploring technology beyond the classroom. My interests currently revolve around software development, cybersecurity, open-source, and solving challenging problems through code.
+
+I'm actively working on improving my DSA skills, building a strong Java foundation, and gaining hands-on cybersecurity experience through labs and security challenges. I enjoy learning by doing, taking things apart to understand how they work, and continuously expanding my technical skillset through projects and experimentation.
+
+Outside of tech, I produce EDM music as **CubiePro** and occasionally go down rabbit holes learning about things I probably didn't need to learn—but am glad I did.
+
 🔭 I’m currently working on strengthening my problem-solving skills through DSA, building a strong foundation in Java, exploring cybersecurity through hands-on labs, and preparing for software engineering internships and placements.<br><br>👯 I’m looking to collaborate on cybersecurity projects, open-source contributions, automation tools, and CTF challenges.<br><br>🤝 I’m looking for help with cybersecurity research and building impactful real-world projects.<br><br>🌱 I’m currently learning Java, Data Structures & Algorithms, cybersecurity fundamentals, network analysis, and Linux-based workflows.<br><br>💬 Ask me about Java, DSA, Git & GitHub, cybersecurity learning resources, or TryHackMe.<br><br>⚡ Fun fact: When I’m not coding or exploring cybersecurity, I produce EDM tracks under the alias "CubiePro".<br>
 
 
