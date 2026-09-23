@@ -40,10 +40,6 @@ Outside of tech, I produce EDM music as **CubiePro** and occasionally go down ra
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=atharvachauhan25&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=atharvachauhan25&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvachauhan25&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-![](https://komarev.com/ghpvc/?username=atharvachauhan25\&label=Profile%20Views\&color=0e75b6\&style=flat)
+![](https://github-readme-stats.shion.dev/api?username=atharvachauhan25&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=atharvachauhan25&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=atharvachauhan25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
